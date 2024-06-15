@@ -14,6 +14,8 @@ Time Series Analysis: Implemented a robust time series analysis framework by int
 
 Data Cleaning: Leveraged Power Query for extensive data cleaning and transformation, which included removing duplicates, correcting column data types, and handling missing values to ensure data accuracy and consistency.
 
+ToolTip: Utilized other created visualizations as tooltips to streamline the dashboard and eliminate unnecessary length, ensuring a concise and user-friendly interface.
+
 DAX: Utilized DAX functions to create new columns and measures, enhancing data analysis capabilities and key performance indicators (KPIs). Conducted comparative analysis of sales across different years to uncover trends and patterns.
 
 Visualization: Developed insightful visualizations to identify key patterns and trends, such as FY2018 emerging as the most profitable year and Quarter 1 being a pivotal period. These visualizations facilitate better understanding and decision-making for financial analysts.
