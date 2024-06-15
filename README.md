@@ -1,5 +1,4 @@
 # Sales-Analysis-Using-PowerBI
-Sales Analysis Using Power BI
 
 Developed a comprehensive dashboard using Power BI to uncover trends and patterns within the data, enabling more informed and data-driven decision-making. 
 This dashboard is designed to streamline the workflow of financial analysts by providing clear and insightful visualizations that highlight key metrics and performance indicators. 
