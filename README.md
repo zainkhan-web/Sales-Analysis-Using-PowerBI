@@ -18,4 +18,4 @@ ToolTip: Utilized other created visualizations as tooltips to streamline the das
 
 DAX: Utilized DAX functions to create new columns and measures, enhancing data analysis capabilities and key performance indicators (KPIs). Conducted comparative analysis of sales across different years to uncover trends and patterns.
 
-Visualization: Developed insightful visualizations to identify key patterns and trends, such as FY2018 emerging as the most profitable year and Quarter 1 being a pivotal period. These visualizations facilitate better understanding and decision-making for financial analysts.
+Visualization: Developed insightful visualizations to identify key patterns and trends, such as FY2018 emerging as the most profitable year and Quarter 3 being a pivotal period. These visualizations facilitate better understanding and decision-making for financial analysts.
